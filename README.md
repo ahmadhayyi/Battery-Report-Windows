@@ -1,4 +1,4 @@
-# GitHub Mencetak Hasil Kesehatan Baterai Windows di Laptop
+# Mencetak Hasil Kesehatan Baterai Windows di Laptop
 
 Repositori ini berisi alat yang dirancang khusus untuk membantu Anda memantau dan mencetak hasil kesehatan baterai Windows di laptop Anda. Anda dapat menggunakan repositori ini untuk mengakses informasi baterai, menganalisis data, dan mencetak laporan hasil dengan mudah.
 
